@@ -10,7 +10,7 @@ This repository contains an AI model trained to predict house prices based on ke
 ### Highlights:
 - Trained on comprehensive real estate datasets.
 - Includes data preprocessing scripts.
-- Easy-to-use prediction API for seamless integration.
+
 
 ---
 
